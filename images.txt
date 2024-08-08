@@ -4,4 +4,4 @@ nginx
 mysql
 redis
 minio/minio
-jenkins
+jenkins/jenkins
