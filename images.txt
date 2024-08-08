@@ -1,7 +1,6 @@
 openjdk:11.0-jre-buster
-openjdk
 nginx
-mysql
+mysql:8.0
 redis
 minio/minio
 jenkins/jenkins
