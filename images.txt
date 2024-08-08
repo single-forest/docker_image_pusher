@@ -1,5 +1,5 @@
 openjdk:11.0-jre-buster
-/openjdk
+openjdk
 nginx
 mysql
 redis
