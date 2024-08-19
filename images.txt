@@ -4,4 +4,4 @@ mysql:8.0
 redis
 minio/minio
 jenkins/jenkins
-node
+node:18-alpine
